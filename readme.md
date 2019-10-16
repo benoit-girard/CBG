@@ -1,4 +1,4 @@
-This code is a Python re-implementation of the contracting basal ganglia (CBG) model presentend in (Girard et al., 2008).
+This code is a Python re-implementation of the contracting basal ganglia (CBG) model presented in (Girard et al., 2008) and of the updated GPR model presented in (Prescott et al., 2006).
 
 # First contact:
 

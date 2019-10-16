@@ -1,5 +1,4 @@
-First contact:
---------------
+# First contact:
 
 running "python CBGTC.py" should simulate the contracting basal
 ganglia model (CBG) in three tests: 
@@ -56,8 +55,7 @@ The program will try to use the psycho library to increase computation
 speed, if not available, a 'Psyco not available.' message will be
 displayed, but the program should compute without problem.
 
-Some more details:
-------------------
+# Some more details:
 
 The basalganglia.py and thalamusFC.py respectively define the
 basalganglia and thalamusFC classes. The basalganglia corresponds to

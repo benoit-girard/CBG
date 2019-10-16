@@ -1,3 +1,5 @@
+This code is a Python re-implementation of the contracting basal ganglia (CBG) model presentend in (Girard et al., 2008).
+
 # First contact:
 
 running "python CBGTC.py" should simulate the contracting basal
@@ -94,3 +96,13 @@ dedicated log files in the log/ directory.
 
 The programs are commented (at least a bit), do not hesitate to dig
 into them to get more details about the other functions.
+
+# References
+
+Girard, B., Tabareau, N., Pham, Q. C., Berthoz, A., & Slotine, J. J. (2008). Where neuroscience and dynamic system theory meet autonomous robotics: a contracting basal ganglia model for action selection. *Neural Networks*, 21(4), 628-641.
+
+Gurney, K., Prescott, T. J., & Redgrave, P. (2001a). A computational model of action selection in the basal ganglia. I. A new functional anatomy. Biological cybernetics, 84(6), 401-410.
+
+Gurney, K., Prescott, T. J., & Redgrave, P. (2001b). A computational model of action selection in the basal ganglia. II. Analysis and simulation of behaviour. Biological cybernetics, 84(6), 411-423.
+
+Prescott, T. J., González, F. M. M., Gurney, K., Humphries, M. D., & Redgrave, P. (2006). A robot model of the basal ganglia: behavior and intrinsic processing. Neural Networks, 19(1), 31-61.
